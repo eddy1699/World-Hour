@@ -1,0 +1,7 @@
+{
+  "name": "ChronosWorld: Interactive Time Map",
+  "description": "A high-performance interactive world map visualizing global time zones, day/night cycles, and localized cultural insights using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
